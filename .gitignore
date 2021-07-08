@@ -1,3 +1,6 @@
+# typescript buid dir
+build/
+
 # Logs
 logs
 *.log
